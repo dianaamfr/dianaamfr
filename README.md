@@ -1,7 +1,7 @@
 ## Hey there 👋, I'm Diana
 ### About me
 I'm currently taking the Masters in Informatics and Computing Engineering at FEUP, but I've also studied Webdesign/Multimedia in the past.
-My favorite areas are Software Engineering, Distributed Systems and Mobile and Web Development.
+My favorite areas are Software Engineering, Distributed Systems, Mobile Development, and Web Development (mainly Backend).
 Apart from programming, I also love to walk and wander around in the nature, meet new places, exercise and read.
 
 ### :computer: Programming Skills :
